@@ -1,4 +1,4 @@
-## EJEMPLO DE MOCULOS
+## EJEMPLO DE MODULOS
 
 ### En este apartado vamos a trabajar con los modulos de **python** 
 
